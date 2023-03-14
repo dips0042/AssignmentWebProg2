@@ -11,5 +11,6 @@ Kemudian, kita berangkat ke profile page:
 
 Terima kasih!
 
-# Assignment 2: Looping & Conditional Rendering
-Untuk Assignment 2 ini, saya menambahkan halaman Course dimana pada halaman ini, user dapat melihat distribusi mata kuliah per hari dari mahasiswa Binusian24 jurusan IT Statistika pada semester ini. 
+# Assignment 2: Conditional Rendering, Loop Rendering, dan Reusable Components
+Reusable component diimplementasikan untuk pembuatan header, footer, dan isi dari halaman. Dan untuk mengimplementasikan conditional dan looping rendering, maka ditambahkan Course Page dimana pada halaman ini user dapat melihat distribusi mata kuliah per hari dari mahasiswa Binusian24 jurusan IT Statistika pada semester ini. 
+![Schedule Page] (https://github.com/dips0042/AssignmentWebProg2/blob/master/coursePage)
