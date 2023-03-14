@@ -20,27 +20,16 @@
 
 
   {{-- CONTENT --}}
- 
-  <section class="hero is-fullheight">
+ <section class="hero is-fullheight">
    <div class="hero-body p-0 img-header">
         <div class="main-hero"></div>
             <div class="container has-text-centered">
-
-             {{now()->toTimeString()}}
-            @php($dayName = now()->format('l'))
-
-            @if ($dayName == 'Monday')
-                @yield('momday')
-            @elseif ($dayName == 'Tuesday')
-                @yield('tuesday')
-            @else
-                @yield('night')
-            @endif
-            </div>
+              @yield('welcome')
         </div>
     </div>
   </section>
 
+  
   {{-- FOOTER --}}
   <footer class="hero-foot has-background-black-bis pt-4 pb-2">
     @include('footer')

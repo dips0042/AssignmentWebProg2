@@ -1,28 +1,12 @@
-@section('monday')
-    <h1 data-aos="zoom-out" class="title font-light is-1" style="color: white">
-        <em>Happy Monday!</em> 
-    </h1>
-    <p data-aos="zoom-out-down" class="subtitle font-light" style="color: white">
-        It might be hard to leave the weekends, but ciayo! Life must goes on!
-    </p>
-@endsection
-
-@section('tuesday')
-    <h1 data-aos="zoom-out" class="title font-light is-1" style="color: white">
-        <em>Happy Tuesday!</em> 
-    </h1>
-    <p data-aos="zoom-out-down" class="subtitle font-light" style="color: white">
-        The only person you should try to be better than is the person you were yesterday
-    </p>
-@endsection
-
-@section('wednesday')
-    <h1 data-aos="zoom-out" class="title font-light is-1" style="color: white">
-        <em>Happy Wednesday!</em> 
-    </h1>
-    <p data-aos="zoom-out-down" class="subtitle font-light" style="color: white">
-        The only person you should try to be better than is the person you were yesterday
-    </p>
+@section('welcome')
+    <p data-aos="zoom-out-down" class="subtitle font-light" style="color: white">Halo, Pak Anderies</p>
+        <h1 data-aos="zoom-out" class="title font-light is-1" style="color: white">
+        <em>Kami dari Kelompok 1</em> 
+        </h1>
+    <p data-aos="zoom-out-up" class="subtitle font-light" style="color: white">
+        Silakan dilihat 
+        <a href="/profile" style="color: white;  text-decoration: underline">profile kami</a>
+    </p> 
 @endsection
 
 @section('bernadetha')

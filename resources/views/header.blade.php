@@ -11,6 +11,7 @@
         <div class="navbar-end">
           <a class="navbar-item has-text-white" href="/">Home</a>
           <a class="navbar-item has-text-white" href="/profile">Profile</a>
+          <a class="navbar-item has-text-white" href="/schedule">Course</a>
         </div>
       </div>
     </div>
