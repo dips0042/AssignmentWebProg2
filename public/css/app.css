@@ -1,0 +1,7 @@
+.img-header {
+    background-image: url(../assets/bg-img.webp);   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: grayscale(75%); 
+}
